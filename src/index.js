@@ -1,6 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
-import {  } from 'react-router-dom'
+import { BrowserRouter as Router } from 'react-router-dom'
 
 // Importing the top-level component
 import App from './components/App'
