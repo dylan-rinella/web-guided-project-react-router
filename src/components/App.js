@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
 // 👉 STEP 2 - React Router imports (Route, Link and Switch)
+import { Route, Link, Switch }
 
 // Components used for the different routes
 import Home from './Home'
